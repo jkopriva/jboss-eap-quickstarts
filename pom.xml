@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+<?xml version="1.0" encoding="UTF-8"?><!--
     JBoss, Home of Professional Open Source
     Copyright 2015, Red Hat, Inc. and/or its affiliates, and individual
     contributors by the @authors tag. See the copyright.txt in the
@@ -265,7 +265,7 @@
           <resources>
             <labels>
               <all>
-                <space>test-new</space>
+                <space>testA</space>
               </all>
             </labels>
           </resources>
