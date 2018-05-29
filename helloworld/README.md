@@ -7,8 +7,7 @@ Summary: The `helloworld` quickstart demonstrates the use of *CDI* and *Servlet 
 Target Product: JBoss EAP  
 Source: <https://github.com/jboss-developer/jboss-eap-quickstarts/>  
 
-What is it?
------------
+What is it?adghdjtbdsfesrverv
 \asfsadfsadf
 
 The `helloworld` quickstart demonstrates the use of *CDI* and *Servlet 3* in Red Hat JBoss Enterprise Application Platform 7.
