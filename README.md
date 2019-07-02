@@ -2,10 +2,9 @@
 
 Summary: The quickstarts demonstrate Java EE 7 and a few additional technologies from the JBoss stack. They provide small, specific, working examples that can be used as a reference for your own project.
 sfasdfarefasdfd
-
+asfdasdfsdfa
 ## Introduction
-
-These quickstarts run on Red Hat JBoss Enterprise Application Platform 7.1 or later. We recommend using the JBoss EAP ZIP file. This version uses the correct dependencies and ensures you test and compile against your runtime environment.
+ased Hat JBoss Enterprise Application Platform 7.1 or later. We recommend using the JBoss EAP ZIP file. This version uses the correct dependencies and ensures you test and compile against your runtime environment.
 
 Be sure to read this entire document before you attempt to work with the quickstarts. It contains the following information:
 
